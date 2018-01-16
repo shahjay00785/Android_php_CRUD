@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidPhpMysql2</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
