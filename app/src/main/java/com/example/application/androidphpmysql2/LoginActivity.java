@@ -61,6 +61,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
     }
 
+    /* git add ons*/
+
     @Override
     public void onPointerCaptureChanged(boolean hasCapture) {
 
